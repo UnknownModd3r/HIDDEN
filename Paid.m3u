@@ -79,8 +79,8 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/ibc13_sd_new/default1/inde
 http://136.239.173.26:6610/001/2/ch00000090990000001090/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpBCCDeDIJn9rDuWx8BszuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001217&contentid=ch00000000000000001217&videoid=ch00000090990000001090&recommendtype=0&userid=1645621004526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=5X13LGN2GQBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 group-title="Local Channels 🇵🇭" tvg-id="" tvg-logo="https://i.imgur.com/zZWj5vn.png",TFC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:2c8306892361e3fba18cb142f31ec775
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
 
 #EXTINF:0 tvg-id="" tvg-logo="https://imgur.com/SLE4dR7.png" group-title="Local Channels 🇵🇭",SOLAR FLIX
@@ -97,9 +97,7 @@ http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v8
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 
 #EXTINF:-1 group-title="Local Channels 🇵🇭" tvg-id="" tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="Local Channels 🇵🇭",Kapamilya Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
+http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-name="PBB All-Access Livestream" tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/d/dc/PBBCOLLAB2_EYE.png" group-title="Local Channels 🇵🇭",PBB All-Access Livestream
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/index.mpd
@@ -119,6 +117,14 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default1/inde
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="1086" tvg-logo="" group-title="Local Channels 🇵🇭",GMA LIFE TV HD
+https://converse.nathcreqtives.com/channels/gmalife/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duTW9kcyIsImlhdCI6MTc3Mjk3MDUwOCwiZXhwIjoxNzc0MjYzMjU3LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzQyNjMyNTd9.IkZezJwMNKN8M6kBlMm6DFq6-L4gV6o1uxE0T6mYY6o
+
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="1086" tvg-logo="" group-title="Local Channels 🇵🇭",GMA NEWS TV
+https://converse.nathcreqtives.com/channels/gmanewstv/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duTW9kcyIsImlhdCI6MTc3Mjk3MDUwOCwiZXhwIjoxNzc0MjYzMjU3LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzQyNjMyNTd9.IkZezJwMNKN8M6kBlMm6DFq6-L4gV6o1uxE0T6mYY6o
 
 #EXTINF:-1 group-title="Local Channels 🇵🇭" tvg-id="" tvg-logo="https://i.imgur.com/Bcu69bU.png", ANC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
