@@ -127,10 +127,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-ab
 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="1086" tvg-logo="https://imgur.com/0Y9q1vb.png" group-title="Local Channels 🇵🇭",GMA Life TV HD
-https://converse.nathcreqtives.com/channels/life/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duTW9kcyIsImlhdCI6MTc3Mjk3MDUwOCwiZXhwIjoxNzc0MjYzMjU3LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzQyNjMyNTd9.IkZezJwMNKN8M6kBlMm6DFq6-L4gV6o1uxE0T6mYY6o
+https://converse.nathcreqtives.com/channels/gmalife/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duTW9kcyIsImlhdCI6MTc3Mjk3MDUwOCwiZXhwIjoxNzc0MjYzMjU3LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzQyNjMyNTd9.IkZezJwMNKN8M6kBlMm6DFq6-L4gV6o1uxE0T6mYY6o
 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="1086" tvg-logo="https://imgur.com/GnfBOYF" group-title="Local Channels 🇵🇭",GMA News TV
+#EXTINF:-1 tvg-id="1086" tvg-logo="https://imgur.com/GnfBOYF.png" group-title="Local Channels 🇵🇭",GMA News TV
 https://converse.nathcreqtives.com/channels/gmanewstv/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duTW9kcyIsImlhdCI6MTc3Mjk3MDUwOCwiZXhwIjoxNzc0MjYzMjU3LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzQyNjMyNTd9.IkZezJwMNKN8M6kBlMm6DFq6-L4gV6o1uxE0T6mYY6o
 
 #EXTINF:-1 group-title="Local Channels 🇵🇭" tvg-id="" tvg-logo="https://i.imgur.com/Bcu69bU.png", ANC
