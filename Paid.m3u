@@ -119,11 +119,12 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kapatid_hd/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default1/index.mpd
 
-#EXTINF:-1 group-title="Local Channels 🇵🇭" tvg-id="" tvg-logo="https://i.imgur.com/ZOqMJfw.png" group-title="Local Channels 🇵🇭",GMA Pinoy TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/noodtayo/app/main/images/ch_gma_pinoy_tv.webp" group-title="Entertainment", GMA Pinoy TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=7b5d15a7385546768aca9fd505ad5e16:f534393c84c1a9c17fa36bc3a4380981
+https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="1086" tvg-logo="https://imgur.com/0Y9q1vb.png" group-title="Local Channels 🇵🇭",GMA Life TV HD
