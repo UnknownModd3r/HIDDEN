@@ -951,7 +951,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/i
 #KODIPROP:inputstream.adaptive.license_key=d1f8a0c97b3d4e529a6f2c4b8d7e1f90:58ab331d14b66bf31aca4284e0a3e536
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
-#EXTINF:-1  tvg-id="NBA.TV.HD.us2" tvg-logo="https://imgur.com/MTJfHfd.png" group-title="Sports", NBA TV
+#EXTINF:-1  tvg-id="NBA.TV.HD.us2" tvg-logo="https://imgur.com/x1fjd2Z.png" group-title="Sports", NBA TV
 http://converse.nathcreqtives.com/directv/nba_tv/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duTW9kcyIsImlhdCI6MTc3Mjk3MDUwOCwiZXhwIjoxNzc0MjYzMjU3LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzQyNjMyNTd9.IkZezJwMNKN8M6kBlMm6DFq6-L4gV6o1uxE0T6mYY6o
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="Sports",Tap Sports
