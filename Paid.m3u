@@ -99,24 +99,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 #EXTINF:-1 group-title="Local Channels 🇵🇭" tvg-id="" tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="Local Channels 🇵🇭",Kapamilya Channel
 http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="1" tvg-name="PBB (Dining Area)" tvg-logo="" group-title="PBB",PBB (Dining Area)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c35f75a55aa49ffad996a40aa9468ec:a6a0f0ed7b3ae54bc293360dcc57a647
-https://converse.nathcreqtives.com/1/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duTW9kcyIsImlhdCI6MTc3Mjk3MDUwOCwiZXhwIjoxNzc0MjYzMjU3LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzQyNjMyNTd9.IkZezJwMNKN8M6kBlMm6DFq6-L4gV6o1uxE0T6mYY6o
-
-#EXTINF:-1 tvg-id="22" tvg-name="PBB (Pool Area)" tvg-logo="" group-title="PBB",PBB (Pool Area)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ffb1499141645ed9c0cb34056627157:078483df70af776567c704a79ff0d63c
-https://converse.nathcreqtives.com/22/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duTW9kcyIsImlhdCI6MTc3Mjk3MDUwOCwiZXhwIjoxNzc0MjYzMjU3LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzQyNjMyNTd9.IkZezJwMNKN8M6kBlMm6DFq6-L4gV6o1uxE0T6mYY6o
-
-#EXTINF:-1 tvg-id="23" tvg-name="PBB Collab Edition 2.0" tvg-logo="" group-title="PBB",PBB Collab Edition 2.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b93c215d3a8042f883acff6444c9f087:056b82112064371cae8c047fe65e9a26
-https://converse.nathcreqtives.com/23/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duTW9kcyIsImlhdCI6MTc3Mjk3MDUwOCwiZXhwIjoxNzc0MjYzMjU3LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzQyNjMyNTd9.IkZezJwMNKN8M6kBlMm6DFq6-L4gV6o1uxE0T6mYY6o
-
-#EXTINF:-1 tvg-id="24" tvg-name="PBB All Access" tvg-logo="" group-title="PBB",PBB All Access
-https://converse.nathcreqtives.com/24/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duTW9kcyIsImlhdCI6MTc3Mjk3MDUwOCwiZXhwIjoxNzc0MjYzMjU3LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzQyNjMyNTd9.IkZezJwMNKN8M6kBlMm6DFq6-L4gV6o1uxE0T6mYY6o
-
 #EXTINF:-1 tvg-logo="https://imgur.com/u59hFYi.png" group-title="Local Channels 🇵🇭", Jeepney TV
 http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpGbNnk2H5Bi8k4yR%2B9AHGFytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=1870820485634&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6T45HYQ6YE3XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
