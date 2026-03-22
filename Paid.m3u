@@ -1056,6 +1056,9 @@ https://ac-009.live.p7s1video.net/e0e064c8/t_004/ran-nflnetwork-de-hd/cenc-defau
 #KODIPROP:inputstream.adaptive.license_key=d1f8a0c97b3d4e529a6f2c4b8d7e1f90:58ab331d14b66bf31aca4284e0a3e536
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
+#EXTINF:-1  tvg-id="NBA.TV.HD.us2" tvg-logo="https://imgur.com/MTJfHfd.png" group-title="Sports", NBA TV
+https://fl1.moveonjoy.com/NBA_TV/mpegts
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Premier_Sports_logo_final.png/revision/latest?cb=20210920130931" group-title="Local Channels 🇵🇭", Premier Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
