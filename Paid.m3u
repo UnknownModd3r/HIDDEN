@@ -365,6 +365,9 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/depedch_sd/default/index.m
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/fashiontvhd/default/index.mpd
 
 #EXTINF:-1 tvg-id="KIX.ph" tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="Local Channels 🇵🇭",KIX HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331313938353234383134303633:3669754977303668394e493367344773
 https://converse.nathcreqtives.com/1263/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duTW9kcyIsImlhdCI6MTc3NTA0NDczOSwiZXhwIjoxNzc2MzQwNzI2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzYzNDA3MjYsImFsbG93ZWRPcmlnaW5zIjpbXX0.VhKkE1MMYOcDEjzu_wsyNtsVwAM_gZmYGlb5pdgY3pY
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="Local Channels 🇵🇭",Warner TV 
@@ -904,8 +907,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f00bd0122a8a4da1a49ea6c49f7098ad:a4079f3667ba4c2bcfdeb13e45a6e9c6
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
+https://converse.nathcreqtives.com/astro/5066/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duTW9kcyIsImlhdCI6MTc3NTA0NDczOSwiZXhwIjoxNzc2MzQwNzI2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzYzNDA3MjYsImFsbG93ZWRPcmlnaW5zIjpbXX0.VhKkE1MMYOcDEjzu_wsyNtsVwAM_gZmYGlb5pdgY3pY
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="Sports",PBA RUSH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -928,7 +931,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/i
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
 #EXTINF:-1  tvg-id="NBA.TV.HD.us2" tvg-logo="https://imgur.com/x1fjd2Z.png" group-title="Sports", NBA TV
-http://converse.nathcreqtives.com/directv/nba_tv/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duTW9kcyIsImlhdCI6MTc3Mjk3MDUwOCwiZXhwIjoxNzc0MjYzMjU3LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzQyNjMyNTd9.IkZezJwMNKN8M6kBlMm6DFq6-L4gV6o1uxE0T6mYY6o
+https://converse.nathcreqtives.com/sportscanada/ca_nba_tv/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duTW9kcyIsImlhdCI6MTc3NTA0NDczOSwiZXhwIjoxNzc2MzQwNzI2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzYzNDA3MjYsImFsbG93ZWRPcmlnaW5zIjpbXX0.VhKkE1MMYOcDEjzu_wsyNtsVwAM_gZmYGlb5pdgY3pY
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="Sports",Tap Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
