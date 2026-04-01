@@ -103,11 +103,9 @@ http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87
 http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpGbNnk2H5Bi8k4yR%2B9AHGFytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=1870820485634&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6T45HYQ6YE3XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-logo="https://imgur.com/A0XYA7R.png" group-title="Local Channels 🇵🇭", Kapatid Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=045d103180f64562b1db7c932741c3ba:c3380548b9075c767a6ae2006ef4bff8
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kapatid_hd/default/index.mpd
+https://converse.nathcreqtives.com/Kapatid-Channel/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJVbmtub3duTW9kcyIsImlhdCI6MTc3NTA0NDczOSwiZXhwIjoxNzc2MzQwNzI2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzYzNDA3MjYsImFsbG93ZWRPcmlnaW5zIjpbXX0.VhKkE1MMYOcDEjzu_wsyNtsVwAM_gZmYGlb5pdgY3pY
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxvjeBIthYiEaZHeVeYpDicIlOTdv3G6lzoal3VM2xVzWu_J7XxM657oz&s=10" group-title="Local Channels 🇵🇭", Bilyonaryo Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
