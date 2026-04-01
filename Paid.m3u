@@ -192,7 +192,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f8537d8412b11edb8780242ac120002:2ffd7230416150fd5196fd7ea71c36f3
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/celmovie_pinoy_sd/default/index.mpd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/celmovie_pinoy_sd/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/gIlbAxR.png" group-title="Local Channels 🇵🇭", TMC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -240,15 +240,15 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d2a6f1c9b7e4c3da5f01e7b9c6d2f44:23841651ebf49fa03fdfcd7b43337f87
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_rockextreme/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockextreme/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/vsUWRsl.png" group-title="Local Channels 🇵🇭",Rock Entertainment
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8b2d6f14c9e4d7a8f552c1e9b7d6a30:b61a33a4281e7c8e68b24b9af466f7b4
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_rockentertainment/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=e4ee0cf8ca9746f99af402ca6eed8dc7:be2a096403346bc1d0bb0f812822bb62
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockentertainment/default/index.mpd
 
 #EXTINF:-1 group-title="Local Channels 🇵🇭" tvg-id="" tvg-logo="https://i.imgur.com/3BCg3pS.png",Movies Now
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -284,11 +284,7 @@ http://136.239.173.26:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v8
 http://136.239.158.30:6610/001/2/ch00000090990000001149/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroVo9XMLpd0k2y9rVerSvmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001319&contentid=ch00000000000000001319&videoid=ch00000090990000001149&recommendtype=0&userid=1260399616449&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RY6345WC6DSXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZsWDiRF.png" group-title="Local Channels 🇵🇭", Tap Sports
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e7c1b9a2d8f4a6c9f30b1d6e2a8c744:6178d9d177689eec5028e2dd608ae7b6
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapsports/default/index.mpd
+http://136.239.173.3:6610/001/2/ch00000090990000001151/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvuCQC%2BfGfSFGYE2TZKWpbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001321&contentid=ch00000000000000001321&videoid=ch00000090990000001151&recommendtype=0&userid=1148739009053&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=Z6EHYVCYR3XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/5/5a/One_Sports_%28TV_channel%29_3D_Logo_2020.png/revision/latest?cb=20230520142737" group-title="Local Channels 🇵🇭", One Sports HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -302,7 +298,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f00bd0122a8a4da1a49ea6c49f7098ad:a4079f3667ba4c2bcfdeb13e45a6e9c6
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="Local Channels 🇵🇭", PBA RUSH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
